@@ -11,4 +11,7 @@ Idea (In lamens terms for lack of a better term): An App.  More than ever people
   If they comply, I open the option of new online clients.
 Problem: The business model.  We offer numerous services, from shoe repair to textil repairs and adjustments working with only the best 
    of these established services around the the clients local area.  Becuause of the way things are setup in the country I reside in,        adding a Van and an employee isn´t feasable primarily because cost, so a service of this nature would help with local business.  We do    the marketing which converts to cusotmers for them, provide the van the employee and the app, all they do is conduct their business        according to a high quality standard consistant throughout the network.  I´ve added a image file to help describe the business model.
-Now, I´d like to add an image file attached but I dont know if I´ve started a properly, but Im sure I´d manage once I have gotten the gist of it.  ideas are welcome.
+Now, I´d like to add an image file attached but I dont know if I´ve started a properly, but Im sure I´d manage once I have gotten the gist of it.  ideas are welcome.  
+The app would look something like this: www.Starchup.com
+The business plan would look something like this: www.ihateironing.com
+
