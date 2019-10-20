@@ -10,5 +10,5 @@ I would like to try and have some of you get together to build an app to make it
 
 Ideas on how to make this project more attractive are welcome.
 The app would look something like this: www.Starchup.com 
-The business plan would look something like this: www.ihateironing.com
+The business model would look something like this: www.ihateironing.com
 
